@@ -1,0 +1,12 @@
+.table{
+    width:50%;
+    margin:20px auto;
+}
+.btn-info{
+    color:#FFF;
+    font-size:12px;
+    margin-right:5px;    
+}
+.label{
+    float:left;
+}
